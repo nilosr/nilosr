@@ -22,7 +22,7 @@ Welcome to my GitHub profile 👋
 - 📧 Email: nilosromero@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nilo-sromero/
 
-## 📫 See my full resume at:
+## 📄 See my full resume at:
 
 - <a href="https://drive.google.com/drive/folders/14JK0UApzQuz7Ku6smX7kcvLUYvBfyTIc?usp=drive_link">[EN]</a>
 - <a href="https://drive.google.com/drive/folders/14gyjTAhhMFNR0BRvfQByOeJLWjiW39ku?usp=drive_link">[PT-BR]</a>
