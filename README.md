@@ -3,8 +3,7 @@
 Welcome to my GitHub profile 👋
 
 - 🎓 B.S. Student in **Control and Automation Engineering** (UFSC)
-- 💻 **Embedded Systems** enthusiast
-- 🐍 Learning QA Automation
+- 💻 **Embedded Systems** hobbyist
 - ⚡ Focused on process optimization and product R&D.
 
 ---
